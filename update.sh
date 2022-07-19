@@ -11,5 +11,5 @@ git add -A .
 git commit -m "update $(date +'%F %T')"
 git push  origin main
 
-#coscmd upload config.json config.json
-#coscmd upload config.js config.js
+coscmd upload config.json config.json
+coscmd upload config.js config.js
