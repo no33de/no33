@@ -1,1 +1,1 @@
-var baseApiUrl = "https://fangapi.kasmdfa.com";
+var baseApiUrl = "https://dchw.gpwuiqnc.xyz";
